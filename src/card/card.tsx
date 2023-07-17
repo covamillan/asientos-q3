@@ -1,6 +1,6 @@
-import { Draggable } from 'react-beautiful-dnd';
-import './card.scss';
-import { Student } from '../models/students';
+import { Draggable } from "react-beautiful-dnd";
+import "./card.scss";
+import { Student } from "../models/students";
 
 export function Card(props: { students: Student[]; section: string }) {
   return (
