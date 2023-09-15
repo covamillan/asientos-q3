@@ -2,14 +2,59 @@ import { Student } from "./models/students";
 
 export const Students: Student[] = [
   {
+    name: "Camilo",
+    img: "assets/camilo.jpg",
+    id: "camilo",
+  },
+  {
+    name: "Andrea",
+    img: "assets/andrea.jpg",
+    id: "andrea",
+  },
+  {
+    name: "Carlos",
+    img: "assets/carlos.jpg",
+    id: "carlos",
+  },
+  {
+    name: "Sebastian",
+    img: "assets/sebastian.jpg",
+    id: "sebastian",
+  },
+  {
     name: "Alejandro",
     img: "assets/alejandro.jpg",
     id: "alejandro",
   },
   {
-    name: "Celia",
-    img: "assets/celia.png",
-    id: "celia",
+    name: "Abel",
+    img: "assets/abel.jpg",
+    id: "abel",
+  },
+  {
+    name: "Alfredo",
+    img: "assets/alfedo.jpg",
+    id: "alfredo",
+  },
+  {
+    name: "Ivana",
+    img: "assets/ivana.jpg",
+    id: "ivana",
+  },
+  {
+    name: "Serafín",
+    img: "assets/serafin.jpg",
+    id: "serafin",
+  },
+  {
+    name: "Elías",
+    img: "assets/elias.jpg",
+    id: "elias",
+  },
+  {
+    name: "Guillermo",
+    img: "assets/guillermo.jpg",
+    id: "guillermo",
   },
   {
     name: "Jesús",
@@ -17,38 +62,23 @@ export const Students: Student[] = [
     id: "jesus",
   },
   {
-    name: "Marta",
-    img: "assets/marta.jpg",
-    id: "marta",
+    name: "Luis",
+    img: "assets/luis.jpg",
+    id: "luis",
   },
   {
-    name: "Miguel",
-    img: "assets/miguel.jpg",
-    id: "miguel",
+    name: "Franz",
+    img: "assets/franz.jpg",
+    id: "franz",
   },
   {
-    name: "Rodrigo",
-    img: "assets/rodrigo.jpg",
-    id: "rodrigo",
+    name: "Sergi",
+    img: "assets/sergi.jpg",
+    id: "sergi",
   },
   {
-    name: "Sergio ",
-    img: "assets/sergio.jpg",
-    id: "sergio",
-  },
-  {
-    name: "Victor",
-    img: "assets/victor.jpg",
-    id: "victor",
-  },
-  {
-    name: "Yolanda",
-    img: "assets/yolanda.jpg",
-    id: "yolanda",
-  },
-  {
-    name: "Jefferson",
-    img: "assets/jefferson.jpg",
-    id: "jefferson",
+    name: "Bruno",
+    img: "assets/bruno.jpg",
+    id: "bruno",
   },
 ];
