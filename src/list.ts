@@ -18,7 +18,7 @@ export const Students: Student[] = [
   },
   {
     name: "X",
-    img: "assets/nobody.jpg",
+    img: "assets/nobody.png",
     id: "nobody",
   },
   {
