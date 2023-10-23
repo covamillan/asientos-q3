@@ -17,11 +17,6 @@ export const Students: Student[] = [
     id: "carlos",
   },
   {
-    name: "X",
-    img: "assets/nobody.png",
-    id: "nobody",
-  },
-  {
     name: "Alejandro",
     img: "assets/alejandro.jpg",
     id: "alejandro",
@@ -55,11 +50,6 @@ export const Students: Student[] = [
     name: "Guillermo",
     img: "assets/guillermo.jpg",
     id: "guillermo",
-  },
-  {
-    name: "Jesús",
-    img: "assets/jesus.jpg",
-    id: "jesus",
   },
   {
     name: "Luis",
